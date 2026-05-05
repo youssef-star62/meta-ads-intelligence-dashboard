@@ -45,6 +45,8 @@ The data layer is a star-schema model over 28,000 daily ad performance records a
 ---
 
 ## Repository structure
+
+```
 meta-ads-intelligence-dashboard/
 ├── README.md
 ├── dashboard/
@@ -63,11 +65,12 @@ meta-ads-intelligence-dashboard/
 ├── docs/
 │   └── DAX_Measures.md            ← all 37 measures, copy-paste ready
 └── screenshots/
-├── 01_executive_summary.png
-├── 02_campaign_deep_dive.png
-├── 03_creative_performance.png
-├── 04_performance_alerts.png
-└── 05_methodology.png
+    ├── 01_executive_summary.png
+    ├── 02_campaign_deep_dive.png
+    ├── 03_creative_performance.png
+    ├── 04_performance_alerts.png
+    
+```
 
 ---
 
