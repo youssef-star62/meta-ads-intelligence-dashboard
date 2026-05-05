@@ -1,0 +1,16 @@
+CampaignID,CampaignName,Objective,FunnelStage,StartDate,Status
+CMP_001,AuraGoods - Spring Wellness - Conversion,Conversions,BOF,2026-01-20,Active
+CMP_002,AuraGoods - Candle Collection - Conversion,Conversions,BOF,2026-01-20,Active
+CMP_003,AuraGoods - Aromatherapy Kit - Conversion,Conversions,MOF,2026-01-25,Active
+CMP_004,AuraGoods - New Arrivals - Traffic,Traffic,MOF,2026-01-20,Active
+CMP_005,AuraGoods - Home Spa Essentials - Conversion,Conversions,BOF,2026-01-30,Active
+CMP_006,AuraGoods - Retargeting - 30d Cart Abandoners,Conversions,BOF,2026-01-20,Active
+CMP_007,AuraGoods - Retargeting - Site Visitors,Conversions,BOF,2026-01-20,Active
+CMP_008,AuraGoods - Lookalike 1% - Prospecting,Conversions,TOF,2026-01-20,Active
+CMP_009,AuraGoods - Interest - Yoga & Meditation,Conversions,TOF,2026-02-04,Active
+CMP_010,AuraGoods - Interest - Clean Beauty,Traffic,TOF,2026-02-09,Active
+CMP_011,AuraGoods - Brand Awareness - Video,Awareness,TOF,2026-01-20,Active
+CMP_012,AuraGoods - Gift Sets - Seasonal,Conversions,BOF,2026-02-19,Active
+CMP_013,AuraGoods - UGC Test - Reels,Traffic,MOF,2026-03-06,Active
+CMP_014,AuraGoods - Black Friday Teaser,Awareness,TOF,2026-03-11,Active
+CMP_015,AuraGoods - Subscription Box - Conversion,Conversions,BOF,2026-01-20,Active

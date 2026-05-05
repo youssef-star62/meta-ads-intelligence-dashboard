@@ -1,0 +1,12 @@
+AudienceID,AudienceName,AudienceType,EstimatedSize
+AUD_001,LAL 1% - Past Purchasers,Lookalike,2100000
+AUD_002,LAL 3% - Page Engagers,Lookalike,5800000
+AUD_003,LAL 5% - Video Viewers 75%,Lookalike,9200000
+AUD_004,Retargeting - Cart Abandoners 30d,Retargeting,42000
+AUD_005,Retargeting - Site Visitors 60d,Retargeting,180000
+AUD_006,Retargeting - Video Viewers 50%,Retargeting,320000
+AUD_007,Interest - Yoga & Meditation,Interest,14000000
+AUD_008,Interest - Aromatherapy,Interest,3200000
+AUD_009,Interest - Clean Beauty,Interest,8500000
+AUD_010,Interest - Wellness Lifestyle,Interest,22000000
+AUD_011,Broad - Women 25-45 US,Broad,65000000

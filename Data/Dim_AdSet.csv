@@ -1,0 +1,89 @@
+AdSetID,CampaignID,AdSetName,AudienceID,Placement,DailyBudget
+ADS_0001,CMP_001,Reels - LAL 1% - Past Purchasers,AUD_001,Reels,300.0
+ADS_0002,CMP_001,Feed - LAL 3% - Page Engagers,AUD_002,Feed,300.0
+ADS_0003,CMP_001,Feed - Retargeting - Video Viewers 50%,AUD_006,Feed,150.0
+ADS_0004,CMP_001,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,75.0
+ADS_0005,CMP_001,Feed - Retargeting - Site Visitors 60d,AUD_005,Feed,50.0
+ADS_0006,CMP_001,Reels - Retargeting - Cart Abandoners 30d,AUD_004,Reels,200.0
+ADS_0007,CMP_002,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,150.0
+ADS_0008,CMP_002,Feed - Retargeting - Video Viewers 50%,AUD_006,Feed,25.0
+ADS_0009,CMP_002,Reels - Retargeting - Site Visitors 60d,AUD_005,Reels,300.0
+ADS_0010,CMP_002,Feed - LAL 1% - Past Purchasers,AUD_001,Feed,100.0
+ADS_0011,CMP_002,Explore - Retargeting - Cart Abandoners 30d,AUD_004,Explore,300.0
+ADS_0012,CMP_002,Feed - LAL 3% - Page Engagers,AUD_002,Feed,300.0
+ADS_0013,CMP_003,Stories - Retargeting - Site Visitors 60d,AUD_005,Stories,300.0
+ADS_0014,CMP_003,Feed - Interest - Wellness Lifestyle,AUD_010,Feed,300.0
+ADS_0015,CMP_003,Feed - Retargeting - Cart Abandoners 30d,AUD_004,Feed,25.0
+ADS_0016,CMP_003,Explore - Interest - Aromatherapy,AUD_008,Explore,50.0
+ADS_0017,CMP_003,Feed - Interest - Clean Beauty,AUD_009,Feed,50.0
+ADS_0018,CMP_003,Feed - Interest - Yoga & Meditation,AUD_007,Feed,100.0
+ADS_0019,CMP_004,Stories - Retargeting - Site Visitors 60d,AUD_005,Stories,100.0
+ADS_0020,CMP_004,Feed - Retargeting - Cart Abandoners 30d,AUD_004,Feed,100.0
+ADS_0021,CMP_004,Feed - Retargeting - Video Viewers 50%,AUD_006,Feed,200.0
+ADS_0022,CMP_004,Feed - Interest - Clean Beauty,AUD_009,Feed,100.0
+ADS_0023,CMP_004,Feed - Interest - Aromatherapy,AUD_008,Feed,300.0
+ADS_0024,CMP_004,Stories - Interest - Wellness Lifestyle,AUD_010,Stories,100.0
+ADS_0025,CMP_004,Stories - Interest - Yoga & Meditation,AUD_007,Stories,200.0
+ADS_0026,CMP_005,Stories - Retargeting - Site Visitors 60d,AUD_005,Stories,150.0
+ADS_0027,CMP_005,Feed - LAL 5% - Video Viewers 75%,AUD_003,Feed,150.0
+ADS_0028,CMP_005,Reels - LAL 3% - Page Engagers,AUD_002,Reels,25.0
+ADS_0029,CMP_005,Feed - LAL 1% - Past Purchasers,AUD_001,Feed,100.0
+ADS_0030,CMP_005,Feed - Retargeting - Cart Abandoners 30d,AUD_004,Feed,150.0
+ADS_0031,CMP_005,Stories - Retargeting - Video Viewers 50%,AUD_006,Stories,25.0
+ADS_0032,CMP_006,Feed - LAL 3% - Page Engagers,AUD_002,Feed,75.0
+ADS_0033,CMP_006,Reels - Retargeting - Site Visitors 60d,AUD_005,Reels,75.0
+ADS_0034,CMP_006,Feed - LAL 5% - Video Viewers 75%,AUD_003,Feed,300.0
+ADS_0035,CMP_006,Reels - Retargeting - Cart Abandoners 30d,AUD_004,Reels,100.0
+ADS_0036,CMP_006,Stories - Retargeting - Video Viewers 50%,AUD_006,Stories,100.0
+ADS_0037,CMP_007,Reels - Retargeting - Cart Abandoners 30d,AUD_004,Reels,75.0
+ADS_0038,CMP_007,Feed - Retargeting - Video Viewers 50%,AUD_006,Feed,200.0
+ADS_0039,CMP_007,Stories - LAL 3% - Page Engagers,AUD_002,Stories,150.0
+ADS_0040,CMP_007,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,300.0
+ADS_0041,CMP_007,Feed - Retargeting - Site Visitors 60d,AUD_005,Feed,75.0
+ADS_0042,CMP_007,Reels - LAL 1% - Past Purchasers,AUD_001,Reels,300.0
+ADS_0043,CMP_008,Feed - Broad - Women 25-45 US,AUD_011,Feed,100.0
+ADS_0044,CMP_008,Stories - LAL 1% - Past Purchasers,AUD_001,Stories,300.0
+ADS_0045,CMP_008,Reels - Interest - Wellness Lifestyle,AUD_010,Reels,300.0
+ADS_0046,CMP_008,Reels - Interest - Clean Beauty,AUD_009,Reels,100.0
+ADS_0047,CMP_008,Stories - LAL 5% - Video Viewers 75%,AUD_003,Stories,300.0
+ADS_0048,CMP_008,Feed - Interest - Aromatherapy,AUD_008,Feed,200.0
+ADS_0049,CMP_009,Stories - Interest - Yoga & Meditation,AUD_007,Stories,100.0
+ADS_0050,CMP_009,Feed - LAL 5% - Video Viewers 75%,AUD_003,Feed,200.0
+ADS_0051,CMP_009,Reels - Broad - Women 25-45 US,AUD_011,Reels,50.0
+ADS_0052,CMP_009,Feed - Interest - Wellness Lifestyle,AUD_010,Feed,25.0
+ADS_0053,CMP_009,Feed - LAL 1% - Past Purchasers,AUD_001,Feed,25.0
+ADS_0054,CMP_009,Feed - Interest - Clean Beauty,AUD_009,Feed,75.0
+ADS_0055,CMP_010,Reels - Interest - Clean Beauty,AUD_009,Reels,25.0
+ADS_0056,CMP_010,Feed - LAL 3% - Page Engagers,AUD_002,Feed,25.0
+ADS_0057,CMP_010,Feed - Interest - Wellness Lifestyle,AUD_010,Feed,100.0
+ADS_0058,CMP_010,Feed - LAL 5% - Video Viewers 75%,AUD_003,Feed,75.0
+ADS_0059,CMP_010,Feed - Broad - Women 25-45 US,AUD_011,Feed,25.0
+ADS_0060,CMP_010,Feed - Interest - Aromatherapy,AUD_008,Feed,200.0
+ADS_0061,CMP_011,Feed - Interest - Aromatherapy,AUD_008,Feed,25.0
+ADS_0062,CMP_011,Feed - Interest - Clean Beauty,AUD_009,Feed,50.0
+ADS_0063,CMP_011,Reels - LAL 1% - Past Purchasers,AUD_001,Reels,200.0
+ADS_0064,CMP_011,Feed - LAL 5% - Video Viewers 75%,AUD_003,Feed,25.0
+ADS_0065,CMP_011,Reels - Broad - Women 25-45 US,AUD_011,Reels,200.0
+ADS_0066,CMP_012,Reels - LAL 1% - Past Purchasers,AUD_001,Reels,300.0
+ADS_0067,CMP_012,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,75.0
+ADS_0068,CMP_012,Feed - Retargeting - Video Viewers 50%,AUD_006,Feed,200.0
+ADS_0069,CMP_012,Feed - LAL 3% - Page Engagers,AUD_002,Feed,100.0
+ADS_0070,CMP_012,Explore - Retargeting - Cart Abandoners 30d,AUD_004,Explore,200.0
+ADS_0071,CMP_012,Reels - Retargeting - Site Visitors 60d,AUD_005,Reels,25.0
+ADS_0072,CMP_013,Feed - Retargeting - Cart Abandoners 30d,AUD_004,Feed,75.0
+ADS_0073,CMP_013,Stories - Retargeting - Site Visitors 60d,AUD_005,Stories,100.0
+ADS_0074,CMP_013,Reels - Interest - Wellness Lifestyle,AUD_010,Reels,100.0
+ADS_0075,CMP_013,Stories - Interest - Clean Beauty,AUD_009,Stories,300.0
+ADS_0076,CMP_013,Stories - Interest - Aromatherapy,AUD_008,Stories,25.0
+ADS_0077,CMP_014,Reels - Interest - Clean Beauty,AUD_009,Reels,300.0
+ADS_0078,CMP_014,Reels - Interest - Aromatherapy,AUD_008,Reels,50.0
+ADS_0079,CMP_014,Explore - Broad - Women 25-45 US,AUD_011,Explore,100.0
+ADS_0080,CMP_014,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,50.0
+ADS_0081,CMP_014,Explore - LAL 3% - Page Engagers,AUD_002,Explore,200.0
+ADS_0082,CMP_014,Stories - Interest - Wellness Lifestyle,AUD_010,Stories,150.0
+ADS_0083,CMP_014,Stories - LAL 1% - Past Purchasers,AUD_001,Stories,300.0
+ADS_0084,CMP_015,Stories - Retargeting - Video Viewers 50%,AUD_006,Stories,25.0
+ADS_0085,CMP_015,Reels - LAL 3% - Page Engagers,AUD_002,Reels,75.0
+ADS_0086,CMP_015,Stories - Retargeting - Cart Abandoners 30d,AUD_004,Stories,100.0
+ADS_0087,CMP_015,Stories - Retargeting - Site Visitors 60d,AUD_005,Stories,100.0
+ADS_0088,CMP_015,Reels - LAL 5% - Video Viewers 75%,AUD_003,Reels,200.0
