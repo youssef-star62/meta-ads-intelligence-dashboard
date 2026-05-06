@@ -2,7 +2,7 @@
 
 A Power BI dashboard that turns 90 days of Meta Ads performance data into weekly decisions for a fictional DTC home wellness brand. Built to answer the question every marketing director asks every Monday morning: **"Where is my budget being wasted right now, and which creatives should I scale?"**
 
-![Performance Alerts page](screenshots/04_performance_alerts.png)
+![Performance Alerts page](Screenshots/04_performance_alerts.png)
 
 ---
 
@@ -49,9 +49,9 @@ The data layer is a star-schema model over 28,000 daily ad performance records a
 ```
 meta-ads-intelligence-dashboard/
 ├── README.md
-├── dashboard/
+├── Dashboard/
 │   └── Meta_Ads.pbix              ← download this to explore the dashboard
-├── data/
+├── Data/
 │   ├── generate_meta_ads_dataset.py   ← reproducible synthetic data generator
 │   ├── Dim_Date.csv
 │   ├── Dim_Campaign.csv
@@ -60,11 +60,11 @@ meta-ads-intelligence-dashboard/
 │   ├── Dim_Audience.csv
 │   ├── Fact_AdPerformance.csv     ← 28,170 rows
 │   └── Fact_CreativeClusters.csv  ← K-means output
-├── ml/
+├── ML_Script/
 │   └── 02_creative_clustering.py  ← K-means, k=4, on CTR/CVR/ROAS
 ├── docs/
 │   └── DAX_Measures.md            ← all 37 measures, copy-paste ready
-└── screenshots/
+└── Screenshots/
     ├── 01_executive_summary.png
     ├── 02_campaign_deep_dive.png
     ├── 03_creative_performance.png
@@ -78,19 +78,19 @@ meta-ads-intelligence-dashboard/
 
 ### Executive Summary
 
-![Executive Summary](screenshots/01_executive_summary.png)
+![Executive Summary](Screenshots/01_executive_summary.png)
 
 ### Campaign Deep Dive
 
-![Campaign Deep Dive](screenshots/02_campaign_deep_dive.png)
+![Campaign Deep Dive](Screenshots/02_campaign_deep_dive.png)
 
 ### Creative Performance — Tier Analysis
 
-![Creative Performance](screenshots/03_creative_performance.png)
+![Creative Performance](Screenshots/03_creative_performance.png)
 
 ### Performance Alerts
 
-![Performance Alerts](screenshots/04_performance_alerts.png)
+![Performance Alerts](Screenshots/04_performance_alerts.png)
 
 
 
